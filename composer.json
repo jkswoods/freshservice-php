@@ -1,0 +1,17 @@
+{
+    "name": "jkswoods/freshservice",
+    "authors": [
+        {
+            "name": "Joshua Stevenson-Woods",
+            "email": "joshua.stevenson-woods@ixis.co.uk"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "symfony/serializer": "^3.2",
+        "symfony/property-access": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {"Freshservice\\": "src/"}
+    }
+}
