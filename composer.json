@@ -1,5 +1,6 @@
 {
     "name": "jkswoods/freshservice-php",
+    "description": "PHP library for interacting with the Freshservice API",
     "authors": [
         {
             "name": "Joshua Stevenson-Woods",
